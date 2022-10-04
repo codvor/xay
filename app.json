@@ -1,0 +1,14 @@
+{
+    "name": "xray-heroku",
+    "description": "deploy xray to heroku",
+    "keywords": ["xray"],
+    "env": {
+        "UUID": {
+            "description": "xray UUID",
+            "value": "ebb62008-2f3b-49a7-87e3-45607b2a1927"        
+        }
+    },
+    "website": "https://starts.sh",
+    "repository": "https://github.com/codvor/xay",
+    "stack": "container"
+}
