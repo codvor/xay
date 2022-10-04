@@ -1,10 +1,10 @@
 {
-    "name": "xray-heroku",
-    "description": "deploy xray to heroku",
-    "keywords": ["xray"],
+    "name": "",
+    "description": "",
+    "keywords": [""],
     "env": {
         "UUID": {
-            "description": "xray UUID",
+            "description": "UUID",
             "value": "ebb62008-2f3b-49a7-87e3-45607b2a1927"        
         }
     },
